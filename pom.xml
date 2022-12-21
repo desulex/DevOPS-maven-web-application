@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>walmart/finalName>
+		<finalName>walmart</finalName>
 		
 		<plugins>
 			<plugin>
